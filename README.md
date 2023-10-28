@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with a big project
 - 💬 Ask me about react, django, vector dbs, e-commerce apps, the future
-- 📫 How to reach me: benrajhebert.com
+- 📫 How to reach me: benrajhebert@gmail.com
