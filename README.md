@@ -20,5 +20,6 @@ Check out some apps I've made for fun (not maintained):
 - https://ai-notes-app-navy.vercel.app
 - https://ai-mentor-app.vercel.app/
 - https://dataroomdog.vercel.app/
+- https://nomadsherpa.com/
 
 
