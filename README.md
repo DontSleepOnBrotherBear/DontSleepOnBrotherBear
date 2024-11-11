@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about react, django, vector dbs, e-commerce apps, the future
 - 📫 How to reach me: benrajhebert@gmail.com
 
-Brother Bear is an underrated 2003 American animated musical/fantasy/comedy-drama film 
+Check out some apps I've made for fun (not maintained):
+https://ai-notes-app-navy.vercel.app
+https://ai-mentor-app.vercel.app/
+https://dataroomdog.vercel.app/
+
+
